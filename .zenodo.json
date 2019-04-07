@@ -1,0 +1,43 @@
+{
+  "description": "A simple Julia package to plot performance and data profiles",
+  "title": "BenchmarkProfiles.jl",
+  "upload_type": "software",
+  "publication_date": "2019-02-07",
+  "creators": [
+    {
+      "affiliation": "École Polytechnique/GERAD - Montréal",
+      "name": "Dominique Orban"
+    }
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl/releases/latest",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Abel Soares Siqueira",
+      "type": "Researcher"
+    },
+    {
+      "name": "Asbjørn Nilsen Riseth",
+      "type": "Other"
+    },
+    {
+      "name": "Elliot Saba",
+      "type": "Other"
+    },
+    {
+      "name": "Samuel Goyette",
+      "type": "Researcher"
+    },
+    {
+      "name": "Tony Kelman",
+      "type": "Other"
+    }
+  ],
+  "license": "MPL-2.0"
+}
